@@ -9,7 +9,7 @@
 **	CREATED: 2026-05-07
 ********************************************************************************
 
-global graphs "C:\Users\\`c(username)'\Documents\GitHub\wyssacademyplots\graphs"
+global graphs "C:\Users\\`c(username)'\GitHub\wyssacademyplots\graphs"
 
 * Read the data
 use "https://github.com/La-Rotonda/blogrotonda/blob/main/scheme_test.dta?raw=true", clear
