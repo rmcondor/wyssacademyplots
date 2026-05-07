@@ -18,4 +18,4 @@ set scheme wyssacademyplots
 <img src="./graphs/bygraphs.png" height="503">
 
 ## Author
-Wyss Academy for Nature
+Ronny M. Condor
