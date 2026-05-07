@@ -11,11 +11,8 @@ set scheme wyssacademyplots
 ```
 
 # Overview
-<img src="./graphs/scatter_plot.png" height="250"> <img src="./graphs/line_graph.png" height="250">
-<img src="./graphs/pie_chart.png" height="250"> <img src="./graphs/box_plot.png" height="250">
-<img src="./graphs/histogram.png" height="250"> <img src="./graphs/hbar.png" height="250">
-<img src="./graphs/density.png" height="250"> <img src="./graphs/range_graphs.png" height="250">
-<img src="./graphs/bygraphs.png" height="503">
+
+[Scatter plot](./graphs/scatter_plot.pdf) | [Line graph](./graphs/line_graph.pdf) | [Pie chart](./graphs/pie_chart.pdf) | [Box plot](./graphs/box_plot.pdf) | [Histogram](./graphs/histogram.pdf) | [Horizontal bar](./graphs/hbar.pdf) | [Density](./graphs/density.pdf) | [Range graphs](./graphs/range_graphs.pdf) | [By-graphs](./graphs/bygraphs.pdf)
 
 ## Author
 Ronny M. Condor

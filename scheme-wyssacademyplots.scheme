@@ -149,4 +149,5 @@ color p14pie     "33 98 132"
 color p15pie     "170 72 57"
 
 * Histograms
-color histogram     "47 114 113"
+color histogram      "47 114 113"
+color histogram_line "47 114 113"
