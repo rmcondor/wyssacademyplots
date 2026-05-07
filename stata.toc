@@ -1,0 +1,4 @@
+v 3
+d wyssacademyplots - graphics scheme
+d Ronny M. Condor, Wyss Academy for Nature
+p wyssacademyplots graph scheme
