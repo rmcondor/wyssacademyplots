@@ -1,6 +1,6 @@
 ## wyssacademyplots
 
-Description: Stata scheme of Wyss Academy for Nature. This is a beta version.
+Description: Stata scheme of Wyss Academy for Nature.
 
 ## Installation
  ```
